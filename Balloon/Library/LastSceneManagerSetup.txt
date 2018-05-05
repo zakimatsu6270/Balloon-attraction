@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/kaishi/Documents/LIT/Unity/KorokoroGame/Assets/Stage.unity
+- path: Assets/Main.unity
   isLoaded: 1
   isActive: 1
